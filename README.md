@@ -6,7 +6,7 @@ here is my <a href="https://kevinblum.dev">website</a>
 
 <a href="https://www.linkedin.com/in/kevin-blum/"><img src="icons/linkedin.png" alt="LinkedIn"></a>
 
-<img src="icons/python.png" alt="python"></a>
+<a href="https://www.python.org/"><img src="icons/python.png" alt="python"></a>
 
 
 
