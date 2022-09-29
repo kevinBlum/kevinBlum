@@ -4,9 +4,17 @@ i like technology and programming and stuff.
 
 here is my <a href="https://kevinblum.dev">website</a>
 
-<a href="https://www.linkedin.com/in/kevin-blum/"><img src="icons/linkedin.png" alt="LinkedIn"></a>
+socials
 
-<a href="https://www.python.org/"><img src="icons/python.png" alt="python"></a>
+<a href="https://www.linkedin.com/in/kevin-blum/"><img src="icons/linkedin.png" alt="LinkedIn" width="50"></a>
+
+i work with
+
+<a href="https://www.python.org/"><img src="icons/python.png" alt="python" width="50"></a>
+<a href="https://www.github.com/"><img src="icons/github.png" alt="github" width="50"></a>
+<a href="https://git-scm.com/"><img src="icons/git.png" alt="git" width="50"></a>
+<a href="https://reactjs.org/"><img src="icons/react.png" alt="react" width="50"></a>
+
 
 
 
@@ -17,8 +25,4 @@ some stats i guess
 
 
 
-Icon Attributions
-
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
-
-<a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
+<a href="attributions.md">Icon Attributions</a>
