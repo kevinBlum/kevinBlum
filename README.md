@@ -2,7 +2,7 @@ hello, my name's kevin
 
 i like technology and programming and stuff.
 
-personal website
+my personal website -> 
 <a href="https://kevinblum.dev"><img src="icons/home.png" alt="home" width="50"></a>
 
 reach me here(s)
