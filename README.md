@@ -5,6 +5,8 @@ i like technology and programming and stuff.
 my personal website -> 
 <a href="https://kevinblum.dev"><img src="icons/home.png" alt="home" width="50"></a>
 
+you can read more about me there and my other interests outside of tech, like photography, film, and writing.
+
 reach me here(s)
 
 <a href="https://www.linkedin.com/in/kevin-blum/"><img src="icons/linkedin.png" alt="LinkedIn" width="50"></a>
