@@ -7,7 +7,7 @@ my personal website ->
 
 you can read more about me there and my other interests outside of tech, like photography, film, and writing.
 
-reach me here these places
+reach me at these places
 
 <a href="https://www.linkedin.com/in/kevin-blum/"><img src="icons/linkedin.png" alt="LinkedIn" width="50"></a>
 <a href="https://github.com/kevinBlum"><img src="icons/github.png" alt="you're already here" width="50"></a>
