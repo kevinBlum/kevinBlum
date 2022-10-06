@@ -7,13 +7,13 @@ my personal website ->
 
 you can read more about me there and my other interests outside of tech, like photography, film, and writing.
 
-reach me here(s)
+reach me here these places
 
 <a href="https://www.linkedin.com/in/kevin-blum/"><img src="icons/linkedin.png" alt="LinkedIn" width="50"></a>
 <a href="https://github.com/kevinBlum"><img src="icons/github.png" alt="you're already here" width="50"></a>
 <a href="mailto:kevin@kevinblum.dev"><img src="icons/email.png" alt="email" width="50"></a>
 
-i work with these
+i work with these things, generally
 
 <a href="https://www.python.org/"><img src="icons/python.png" alt="python" width="50"></a>
 <a href="https://git-scm.com/"><img src="icons/git.png" alt="git" width="50"></a>
