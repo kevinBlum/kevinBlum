@@ -1,6 +1,6 @@
 hello, my name's kevin
 
-i like technology and programming and stuff.
+i like technology and programming, among other things.
 
 my personal website -> 
 <a href="https://kevinblum.dev"><img src="icons/home.png" alt="home" width="50"></a>
