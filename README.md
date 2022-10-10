@@ -2,7 +2,7 @@ hello, my name's kevin
 
 i like technology and programming, among other things.
 
-my personal website -> 
+my personal website ->
 <a href="https://kevinblum.dev"><img src="icons/home.png" alt="home" width="50"></a>
 
 you can read more about me there and my other interests outside of tech, like photography, film, and writing.
@@ -16,11 +16,15 @@ reach me at these places
 
 i work with these things, generally
 
-<a href="https://www.python.org/"><img src="icons/python.png" alt="python" width="50"></a>
 <a href="https://git-scm.com/"><img src="icons/git.png" alt="git" width="50"></a>
+<a href="https://www.python.org/"><img src="icons/python.png" alt="python" width="50"></a>
+<a href="https://www.javascript.com/"><img src="icons/js.png" alt="JS" width="50"></a>
 <a href="https://reactjs.org/"><img src="icons/react.png" alt="react" width="50"></a>
 <a href="https://code.visualstudio.com/"><img src="icons/visual-studio.png" alt="vscode" width="50"></a>
 <a href="https://www.docker.com/"><img src="icons/docker.png" alt="docker" width="50"></a>
+<a href="https://console.aws.amazon.com/"><img src="icons/aws.png" alt="AWS" width="50"></a>
+<a href="https://cloud.google.com/"><img src="icons/gcp.png" alt="Google Cloud" width="50"></a>
+<a href="https://flask.palletsprojects.com"><img src="icons/flask.png" alt="Flask Framework" width="50"></a>
 
 
 
