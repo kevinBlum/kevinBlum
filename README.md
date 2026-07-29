@@ -1,39 +1,41 @@
-hello, my name's kevin
+<p align="center">
+  <img
+    src="./assets/profile-workbench.svg"
+    alt="Kevin Blum — I make tools, interfaces, and various trinkets at Effigy Analytics"
+    width="100%"
+  />
+</p>
 
-i like technology and programming, among other things.
+<p align="center">
+  <a href="https://kevinblum.dev">kevinblum.dev</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/effigy-analytics">Effigy Analytics</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kevin-blum/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:kevin@kevinblum.dev">Email</a>
+</p>
 
-my personal website ->
-<a href="https://kevinblum.dev"><img src="icons/home.png" alt="home" width="50"></a>
+## Hello, I'm Kevin.
 
-you can read more about me there and my other interests outside of tech, like photography, film, and writing.
+I make tools, interfaces, and various trinkets at
+**[Effigy Analytics](https://github.com/effigy-analytics)**.
 
-reach me at these places
+I am also a cloud engineer, currently working as a Lead, Cloud Engineer at
+Prudential Financial, Inc. I live in North Jersey and studied Computer Science
+at Champlain College in Burlington, Vermont.
 
-<a href="https://www.linkedin.com/in/kevin-blum/"><img src="icons/linkedin.png" alt="LinkedIn" width="50"></a>
-<a href="https://www.instagram.com/noahs_roommate/"><img src="icons/instagram.png" alt="Instagram" width="50"></a>
-<a href="https://github.com/kevinBlum"><img src="icons/github.png" alt="you're already here" width="50"></a>
-<a href="mailto:kevin@kevinblum.dev"><img src="icons/email.png" alt="email" width="50"></a>
+### A few things
 
-i work with these things, generally
+- **[Morass](https://github.com/effigy-analytics/morass)** — a public React
+  component library and interface system.
+- **Effigy Awards** — predictions, ballots, and results for awards-season
+  groups; the Effigy application closest to regular use.
+- **Deposition, Scry, and Notation** — three games at various stages of
+  development.
+- **Webbery** — an early home and personal-operations application that still
+  needs some patient work.
 
-<a href="https://git-scm.com/"><img src="icons/git.png" alt="git" width="50"></a>
-<a href="https://www.python.org/"><img src="icons/python.png" alt="python" width="50"></a>
-<a href="https://www.javascript.com/"><img src="icons/js.png" alt="JS" width="50"></a>
-<a href="https://reactjs.org/"><img src="icons/react.png" alt="react" width="50"></a>
-<a href="https://code.visualstudio.com/"><img src="icons/visual-studio.png" alt="vscode" width="50"></a>
-<a href="https://www.docker.com/"><img src="icons/docker.png" alt="docker" width="50"></a>
-<a href="https://console.aws.amazon.com/"><img src="icons/aws.png" alt="AWS" width="50"></a>
-<a href="https://cloud.google.com/"><img src="icons/gcp.png" alt="Google Cloud" width="50"></a>
-<a href="https://flask.palletsprojects.com"><img src="icons/flask.png" alt="Flask Framework" width="50"></a>
-
-
-
-
-some stats i guess
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kevinBlum&theme=dark)](https://git.io/streak-stats)
-
-
-
-
-<a href="attributions.md">Icon Attributions</a>
+Most of my professional work lives in private repositories. Outside software, I
+take film photographs and occasionally write. Those things, along with a little
+more context, live at **[kevinblum.dev](https://kevinblum.dev)**.
