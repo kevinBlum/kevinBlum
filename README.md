@@ -1,78 +1,66 @@
 <p align="center">
-  <img
-    src="./assets/profile-workbench.svg"
-    alt="Kevin Blum — I make tools, interfaces, and various trinkets at Effigy Analytics"
-    width="100%"
-  />
+  <a href="https://kevinblum.dev">
+    <img
+      src="./assets/profile-workbench.svg"
+      alt="Kevin Blum — cloud engineering, curious software, film photography, and the places between"
+      width="100%"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://kevinblum.dev"><img src="./icons/home.png" alt="kevinblum.dev" width="38"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kevin-blum/"><img src="./icons/linkedin.png" alt="LinkedIn" width="38"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/noahs_roommate/"><img src="./icons/instagram.png" alt="Instagram" width="38"></a>
-  &nbsp;&nbsp;
-  <a href="mailto:kevin@kevinblum.dev"><img src="./icons/email.png" alt="Email" width="38"></a>
+  <a href="https://kevinblum.dev">Website</a>
+  ·
+  <a href="https://www.linkedin.com/in/kevin-blum/">LinkedIn</a>
+  ·
+  <a href="mailto:kevin@kevinblum.dev">Email</a>
+  ·
+  <a href="https://www.instagram.com/noahs_roommate/">Film photography</a>
 </p>
 
 ## hello, my name's kevin
 
-I like technology and programming and stuff. I make tools, interfaces, and
-various trinkets at
-**[Effigy Analytics](https://github.com/effigy-analytics)**.
+I am a Lead Cloud Engineer at Prudential Financial and a builder at
+**[Effigy Analytics](https://effigy-analytics.com)**, a two-person software
+studio. I like reliable systems, interfaces with a point of view, and software
+that respects the people expected to use it.
 
-For money, I am a Lead, Cloud Engineer at Prudential Financial, Inc. Most of
-that work lives in private repositories, which is a slightly inconvenient trait
-for a GitHub profile.
+Most of my professional cloud work is private. The things below are where I can
+show more of the decisions, contracts, and craft.
 
-I live in North Jersey and studied Computer Science at Champlain College in
-Burlington, Vermont.
+### selected work
 
-### things in various states of becoming things
+#### [Morass](https://github.com/effigy-analytics/morass)
 
-- **[Morass](https://github.com/effigy-analytics/morass)** — React components
-  and interface contracts; public and reasonably real.
-- **Effigy Awards** — predictions, ballots, and results for awards-season
-  groups; getting close to being a proper application with regular users.
-- **Deposition, Scry, and Notation** — three games, each at its own questionable
-  stage of development.
-- **Webbery** — home and personal operations, still requiring some patient
-  work.
+A public React interface foundation for durable product applications: typed
+primitives, explicit accessibility and theme contracts, package-integrity
+checks, and enough character to keep every consuming product from looking the
+same.
 
-### i work with these
+- [Live showcase](https://effigy-analytics.com/morass)
+- [Public contract](https://github.com/effigy-analytics/morass/blob/main/docs/public-contract.md)
+- `npm install @effigy-analytics/morass`
 
-<p>
-  <img src="./icons/aws.png" alt="AWS" width="42">
-  &nbsp;
-  <img src="./icons/gcp.png" alt="Google Cloud" width="42">
-  &nbsp;
-  <img src="./icons/python.png" alt="Python" width="42">
-  &nbsp;
-  <img src="./icons/react.png" alt="React" width="42">
-  &nbsp;
-  <img src="./icons/docker.png" alt="Docker" width="42">
-  &nbsp;
-  <img src="./icons/git.png" alt="Git" width="42">
-</p>
+#### Effigy Awards
 
-Outside software, I take film photographs and occasionally write. Those things,
-along with a little more context, live at
-**[kevinblum.dev](https://kevinblum.dev)**.
+Predictions, personal ballots, and leaderboards for awards-season groups. The
+central product idea is simple: preserve both who someone **expects** to win and
+who they **want** to win. It is currently in private pilot and release work.
 
-### some stats i guess
+### on the workbench
 
-<p>
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinBlum&theme=github_dark"
-    alt="Kevin's GitHub stats"
-    height="165"
-  >
-  <img
-    src="https://streak-stats.demolab.com?user=kevinBlum&hide_border=true&background=18201D&ring=D6D39A&fire=B76F4C&currStreakLabel=EEE9DD&sideLabels=C8C2B6&currStreakNum=EEE9DD&sideNums=EEE9DD&dates=969D97"
-    alt="Kevin's GitHub contribution streak"
-    height="165"
-  >
-</p>
+- **Deposition, Scry, and Notation** — three game experiments moving toward
+  public screenshots and playable proof.
+- **Webbery** — personal and household operations software with a deliberately
+  patient roadmap.
 
-<sub><a href="./attributions.md">icon attributions, because that seems fair</a></sub>
+### how I tend to work
+
+- Treat delivery, operability, and rollback as product features.
+- Put reusable behavior behind explicit contracts.
+- Keep private systems private without making public work vague.
+- Leave room for personality; durable software does not have to be anonymous.
+
+Outside software, I take photographs on 35mm film, travel when I can, and keep
+occasional writing. The selected work, photo archive, and other field notes live
+at **[kevinblum.dev](https://kevinblum.dev)**.
