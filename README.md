@@ -11,6 +11,8 @@
 <p align="center">
   <a href="https://kevinblum.dev">Website</a>
   ·
+  <a href="https://github.com/kevinBlum/kevinblum.dev">Site source</a>
+  ·
   <a href="https://www.linkedin.com/in/kevin-blum/">LinkedIn</a>
   ·
   <a href="mailto:kevin@kevinblum.dev">Email</a>
