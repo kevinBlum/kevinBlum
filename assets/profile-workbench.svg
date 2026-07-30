@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Kevin Blum</title>
-  <desc id="desc">Cloud engineering, curious software, film photography, and the places between.</desc>
+  <desc id="desc">Kevin Blum — Lead, Cloud Engineer; software and film photography.</desc>
 
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
@@ -28,20 +28,20 @@
   </g>
 
   <g transform="rotate(-1 600 205)">
-    <rect x="236" y="101" width="550" height="27" rx="5" fill="#d6d39a" opacity=".82"/>
-    <text x="252" y="125" fill="#18201d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700" letter-spacing="3">SYSTEMS · SOFTWARE · 35MM FILM</text>
+    <rect x="236" y="101" width="640" height="27" rx="5" fill="#d6d39a" opacity=".82"/>
+    <text x="252" y="125" fill="#18201d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700" letter-spacing="2">CLOUD ENGINEERING · SOFTWARE · FILM PHOTOGRAPHY</text>
 
     <text x="236" y="205" fill="#18201d" font-family="Iowan Old Style, Palatino Linotype, Georgia, serif" font-size="78" font-weight="700" letter-spacing="-4">Kevin Blum</text>
-    <text x="240" y="250" fill="#52625c" font-family="Iowan Old Style, Palatino Linotype, Georgia, serif" font-size="25" font-weight="500">Reliable systems and curious software.</text>
-    <text x="240" y="284" fill="#52625c" font-family="Iowan Old Style, Palatino Linotype, Georgia, serif" font-size="25" font-weight="500">Film photographs and the places between.</text>
+    <text x="240" y="250" fill="#52625c" font-family="Iowan Old Style, Palatino Linotype, Georgia, serif" font-size="25" font-weight="500">Lead, Cloud Engineer at Prudential Financial.</text>
+    <text x="240" y="284" fill="#52625c" font-family="Iowan Old Style, Palatino Linotype, Georgia, serif" font-size="25" font-weight="500">Software with Effigy Analytics. Film photography.</text>
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="1">
     <path d="M250 349h142l12 24H238z" fill="#d6d39a"/>
-    <text x="257" y="369" fill="#50420c">TECHNICAL</text>
+    <text x="270" y="369" fill="#50420c">CLOUD</text>
     <path d="M408 349h168l12 24H396z" fill="#9fae87"/>
-    <text x="420" y="369" fill="#183f4c">PHOTOGRAPHY</text>
+    <text x="438" y="369" fill="#183f4c">SOFTWARE</text>
     <path d="M592 349h146l12 24H580z" fill="#b76f4c"/>
-    <text x="606" y="369" fill="#3d261c">ADVENTURE</text>
+    <text x="600" y="369" fill="#3d261c">PHOTOGRAPHY</text>
   </g>
 </svg>
