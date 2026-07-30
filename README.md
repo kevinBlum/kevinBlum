@@ -2,7 +2,7 @@
   <a href="https://kevinblum.dev">
     <img
       src="./assets/profile-workbench.svg"
-      alt="Kevin Blum — Lead, Cloud Engineer; software and film photography"
+      alt="Kevin Blum — Cloud Engineering, Software Development, and Film Photography"
       width="100%"
     />
   </a>
